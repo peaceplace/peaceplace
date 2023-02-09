@@ -21,7 +21,7 @@ Here are some ideas to get you started:
             <center><img src="https://github-readme-stats.vercel.app/api?username=peaceplace&show_icons=true&hide_border=true&theme=chartreuse-dark" ></center>
         </td>
         <td >
-            <center><img src="https://github-readme-stats.vercel.app/api?username=peaceplace&show_icons=true&hide_border=true&theme=highcontrast" ></center>
+            <center><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=peaceplace&theme=github_dark&show_icons=true" ></center>
         </td>
     </tr>
 </table>
